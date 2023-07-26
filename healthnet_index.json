@@ -1,0 +1,4702 @@
+{
+	"reporting_entity_name": "Centene Management Company LLC",
+	"reporting_entity_type": "Third Party Administrator",
+	"reporting_structure": [
+		{
+			"reporting_plans": [
+				{
+					"plan_name": "HEROES RESTAURANTS DBA ROSCOES FAMOUS DE",
+					"plan_id_type": "EIN",
+					"plan_id": "0330764426",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FORTUNE DYNAMIC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954113986",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PROMISECARE MANAGEMENT SERVICES, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0330959335",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TALCO PLASTICS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954058204",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LAZER BROADCASTING",
+					"plan_id_type": "EIN",
+					"plan_id": "0770364783",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum 90 Ambetter PPO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Silver $55 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ULTIMATE BUILDERS DBA REPIPE",
+					"plan_id_type": "EIN",
+					"plan_id": "0800303376",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $10 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Silver $55 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DELAFIELD CORP.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952105804",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PATHWAYS HOME HEALTH AND HOSPICE",
+					"plan_id_type": "EIN",
+					"plan_id": "0942823240",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STATER BROS. MARKETS",
+					"plan_id_type": "EIN",
+					"plan_id": "0952586175",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ASPHALT, FABRIC & ENGINEERING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330683293",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $20",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MICROMETALS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952505280",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "UNIVERSITY OF CALIFORNIA POSTDOCTORAL",
+					"plan_id_type": "EIN",
+					"plan_id": "0943067788",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SCOTT BROTHERS DAIRY, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330882523",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DIAGNOSTIC MEDICAL GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0954136855",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Silver $55",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $0 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AMAZOOM DELIVERY SERVICE",
+					"plan_id_type": "EIN",
+					"plan_id": "0841924798",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LOS ANGELES POLICE FEDERAL CREDIT UNION",
+					"plan_id_type": "EIN",
+					"plan_id": "0951683316",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ZAGAMI, INC. DBA CLAIREMONT EQUIPMENT",
+					"plan_id_type": "EIN",
+					"plan_id": "0952896595",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "KEN GARFF AUTOMOTIVE, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0300123156",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CARTEL INDUSTRIES LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0330783037",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice CommunityCare HMO Silver C + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA066",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MED-PLUS PHARMACY, INC. DBA LEADER DRUG",
+					"plan_id_type": "EIN",
+					"plan_id": "0061643725",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CITRUS DIALYSIS CENTERS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954338845",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LAND GRAPHIC ENTERPRISES, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0843550677",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $10 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $20 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum 90 Ambetter HMO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BLUETRITON BRANDS, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0943027237",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Silver $55 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NATIONWIDE ENVIRONMENTAL SERVICES",
+					"plan_id_type": "EIN",
+					"plan_id": "0954251996",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Gold B + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OMNI HOTELS (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0020325957",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JBI, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0141862443",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Platinum J",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $20 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Salud HMO y Mas Platinum D",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA033",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CONTRA COSTA COUNTY",
+					"plan_id_type": "EIN",
+					"plan_id": "0946000509",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $50 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HYDRA-ELECTRIC COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0951914801",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $10 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $50 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $50",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HANSEN BROS. ENTERPRISES",
+					"plan_id_type": "EIN",
+					"plan_id": "0941521901",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WESTERN DRUG & MEDICAL SUPPLY",
+					"plan_id_type": "EIN",
+					"plan_id": "0953514215",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SUPER VACATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0954532478",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "EXPO DYEING & FINISHING",
+					"plan_id_type": "EIN",
+					"plan_id": "0330258808",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PARKWEST BICYCLE CASINO, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0953903365",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AON SERVICE CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0363051915",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TY NURSERY",
+					"plan_id_type": "EIN",
+					"plan_id": "0953192374",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MACYS INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0133324058",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice CommunityCare HMO Bronze A + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA066",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TAPESTRY, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0522242751",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HEIDI CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0954631260",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GPS PAINTING & WALLCOVERING",
+					"plan_id_type": "EIN",
+					"plan_id": "0033095425",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TERRA UNIVERSAL",
+					"plan_id_type": "EIN",
+					"plan_id": "0953103389",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CITY OF MOUNTAIN VIEW",
+					"plan_id_type": "EIN",
+					"plan_id": "0946000379",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC TANK LINES",
+					"plan_id_type": "EIN",
+					"plan_id": "0270041837",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $10 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $35",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "UNION ROOFERS HEALTH & WELFARE",
+					"plan_id_type": "EIN",
+					"plan_id": "0951856197",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $35 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FLINTRIDGE PREPARATORY SCHOOL",
+					"plan_id_type": "EIN",
+					"plan_id": "0951643324",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ANACO & AMERICAN BRASS AND IRON",
+					"plan_id_type": "EIN",
+					"plan_id": "0630139000",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold 80 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA062",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum 90 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA062",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PEDDER NISSAN, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0274817259",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $50 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ACTION EMBROIDERY CORP.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953985121",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Silver D + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $0 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Silver $55",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 70 Ambetter PPO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $20",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $20",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Silver $55 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $0",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Platinum J + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "EL DORADO ENTERPRISES",
+					"plan_id_type": "EIN",
+					"plan_id": "0954740742",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Gold F + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SAFELITE AUTOGLASS (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0311725961",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NATIONSTAR MORTGAGE LLC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0752921540",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Bronze $6300/$65 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JONES LUMBER",
+					"plan_id_type": "EIN",
+					"plan_id": "0950885570",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 HDHP Ambetter PPO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Silver A + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $0",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MARIN COUNTRY DAY SCHOOL",
+					"plan_id_type": "EIN",
+					"plan_id": "0941375791",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MITTERA GROUP, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0421028248",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SEQUOIA LIVING",
+					"plan_id_type": "EIN",
+					"plan_id": "0941437728",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $40 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PRYSMIAN CABLES & SYSTEMS LIMITED (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0571061511",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $0",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $0 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "INTERVIEWING SERVICE OF AMERICA",
+					"plan_id_type": "EIN",
+					"plan_id": "0953749281",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MARKEL CORPORATION (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0541959284",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LABOR MANAGEMENT UNIVERSAL",
+					"plan_id_type": "EIN",
+					"plan_id": "0956975448",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CITY OF LIVERMORE",
+					"plan_id_type": "EIN",
+					"plan_id": "0946000359",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $35",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC PLAZA HOTELS",
+					"plan_id_type": "EIN",
+					"plan_id": "0942814979",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ANDY MANAGEMENT",
+					"plan_id_type": "EIN",
+					"plan_id": "0330916112",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Gold B",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Silver $55",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GPS PAINTING & WALLCOVERING",
+					"plan_id_type": "EIN",
+					"plan_id": "0390954254",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ADVANCED IMAGE DIRECT",
+					"plan_id_type": "EIN",
+					"plan_id": "0330339314",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $10 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "EXCEL CABINETS INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330521926",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Silver $55 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Silver $55 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 HDHP Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "KENNAMETAL INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0250900168",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TECHNET PARTNERS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0460749279",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $50 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Gold I + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+					"plan_id_type": "EIN",
+					"plan_id": "0941156525",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold 80 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $50",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $0 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MAYA STEEL FABRICATIONS INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954070970",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $35 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "YUKON PLASTERING",
+					"plan_id_type": "EIN",
+					"plan_id": "0453850239",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MGM TRANSFORMERS/ONLINE POWER",
+					"plan_id_type": "EIN",
+					"plan_id": "0953021610",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 70 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MBH ARCHITECTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0943104650",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "THE HELP GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0953295132",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WILCOX MACHINE CO.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952114777",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BRENT'S DELI",
+					"plan_id_type": "EIN",
+					"plan_id": "0952474633",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CROWN POLY, INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954343903",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BANK OF AMERICA",
+					"plan_id_type": "EIN",
+					"plan_id": "0560906609",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VILLA ESPERANZA",
+					"plan_id_type": "EIN",
+					"plan_id": "0952148860",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $40",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JOSEPH HOLT PLASTERING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0202533580",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PRECISION WIRE",
+					"plan_id_type": "EIN",
+					"plan_id": "0952594778",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ASURION (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0943197174",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ALEXANDER OF OXNARD DBA ALEXANDER BUICK",
+					"plan_id_type": "EIN",
+					"plan_id": "0454911397",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SUPERIOR PAVING COMPANY, INC. DBA PRESTI",
+					"plan_id_type": "EIN",
+					"plan_id": "0201940280",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CHILDREN'S HOSPITAL & RESEARCH CENTER AT",
+					"plan_id_type": "EIN",
+					"plan_id": "0940382330",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ALPHA INDUSTRIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953027350",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BASMAT INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0952874772",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JC SALES INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954446696",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PHOENIX FOOD BOUTIQUE, INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954872659",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $20",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DICK BLICK HOLDINGS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0364124707",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DREES WOOD PRODUCTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0954062367",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COMMERCIAL LUMBER AND PALLET CO.",
+					"plan_id_type": "EIN",
+					"plan_id": "0950642012",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SANTA BARBARA AUTO GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0200772500",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ROY MILLER FREIGHT LINES",
+					"plan_id_type": "EIN",
+					"plan_id": "0020183931",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PS2, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330775221",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CTC GROUP INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0330385856",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STANDARD INDUSTRIES (GAF) (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0475190378",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JON'S MARKETPLACE",
+					"plan_id_type": "EIN",
+					"plan_id": "0953298872",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $10 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "REBAS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0208885533",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 HDHP Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA071",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TOBIN LUCKS",
+					"plan_id_type": "EIN",
+					"plan_id": "0431983451",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TREE ISLAND WIRE",
+					"plan_id_type": "EIN",
+					"plan_id": "0680189766",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $35 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GOLDEN WEST TRADING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954373573",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HORIZON FOOD GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0943330258",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Bronze $6300/$65 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $40",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "UNIVERSITY OF CALIFORNIA",
+					"plan_id_type": "EIN",
+					"plan_id": "0943067788",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "M.M.C.L.,INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330483394",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FDS MANUFACTURING COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0951622718",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GOLDEN STATE ENGINEERING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952644713",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Silver $55 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Platinum F",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BIOLOGICAL LABORATORY, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954698018",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SOUTHWEST MARINE WELFARE",
+					"plan_id_type": "EIN",
+					"plan_id": "0951935595",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $50 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NEW VISTA HEALTH SERVICES, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0461622036",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MASONS OF CALIFORNIA",
+					"plan_id_type": "EIN",
+					"plan_id": "0941156564",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "B.D.R. INDUSTRIES, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954133816",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $40 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA071",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GROVE LUMBER & BUILDING SUPPLIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953353056",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "UNITY COURIER SERVICE INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954018266",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ASIAN ART MUSEUM",
+					"plan_id_type": "EIN",
+					"plan_id": "0901704765",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA062",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "O'CONNELL LANDSCAPE",
+					"plan_id_type": "EIN",
+					"plan_id": "0950314144",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $0 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GREENFIELD FENCE, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0273820068",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CARDINAL FINANCIAL (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0232470039",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SIGNRESOURCE IDENTITY GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0952626807",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DAVE'S HOT CHICKEN",
+					"plan_id_type": "EIN",
+					"plan_id": "0851857009",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $20 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $35 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PEOPLE'S CARE HOLDINGS",
+					"plan_id_type": "EIN",
+					"plan_id": "0954733003",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $20 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OMNITEAM, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954739371",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RYE ELECTRIC DBA AUTOBOTS CORP",
+					"plan_id_type": "EIN",
+					"plan_id": "0463327354",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CHM HOTELS",
+					"plan_id_type": "EIN",
+					"plan_id": "0330248474",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SAN BERNARDINO CITY USD",
+					"plan_id_type": "EIN",
+					"plan_id": "0952285577",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TRIO MANUFACTURING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0951752439",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PIANC",
+					"plan_id_type": "EIN",
+					"plan_id": "0953920489",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LOS ANGELES JEWISH HOME FOR THE AGING",
+					"plan_id_type": "EIN",
+					"plan_id": "0953510024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $10 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ENERGY EXPERTS INTERNATIONAL",
+					"plan_id_type": "EIN",
+					"plan_id": "0943335277",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VERIZON",
+					"plan_id_type": "EIN",
+					"plan_id": "0232259884",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SONOMA COUNTY SUPERIOR COURT",
+					"plan_id_type": "EIN",
+					"plan_id": "0680453461",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DANAHER CORPORATION (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0591995548",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SANDALS CHURCH",
+					"plan_id_type": "EIN",
+					"plan_id": "0330892448",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Silver D",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SUN CLINICAL LABORATORIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953535900",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SUPERIOR ROOFING CO.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952789166",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ARAKELIAN ENTERPRISES, INC. D/B/A ATHENS",
+					"plan_id_type": "EIN",
+					"plan_id": "0954313271",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LLOYDS MANUFACTURING SERVICES",
+					"plan_id_type": "EIN",
+					"plan_id": "0274068760",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ATLAS ASSEMBLY INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0562378779",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "U.S. POLE COMPANY, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953939062",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $40 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $20 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Silver $55 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MGT INDUSTRIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953838597",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MARIN ACADEMY",
+					"plan_id_type": "EIN",
+					"plan_id": "0941186189",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PRIMED MANAGEMENT CONSULTING SERVICES, I",
+					"plan_id_type": "EIN",
+					"plan_id": "0680193329",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Platinum E",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PENN NATIONAL GAMING, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0232234473",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Platinum H",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NEIMAN MARCUS GROUP LLC (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0954119509",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STEVEN ENGINEERING",
+					"plan_id_type": "EIN",
+					"plan_id": "0942418192",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice CommunityCare HMO Silver C",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA066",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MARK COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0952660802",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "J.J. GOURMET FOOD CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0161679961",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CALIFORNIA IRONWORKERS FIELD WELFARE PLA",
+					"plan_id_type": "EIN",
+					"plan_id": "0956042868",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AGC HEALTH & WELFARE TRUST",
+					"plan_id_type": "EIN",
+					"plan_id": "0330078759",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $50 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MORRIS NATIONAL",
+					"plan_id_type": "EIN",
+					"plan_id": "0980020050",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BRENNTAG NORTH AMERICA, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0200552719",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TRANSOCEAN RESOURCES MANAGMENT INC DBA",
+					"plan_id_type": "EIN",
+					"plan_id": "0461019646",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Silver $55",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CASA HERRERA INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952706302",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter PPO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $50",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Gold H",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum 90 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MTCCORP",
+					"plan_id_type": "EIN",
+					"plan_id": "0953856617",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum 90 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PIASC",
+					"plan_id_type": "EIN",
+					"plan_id": "0953920489",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OFFICE SOLUTIONS BUSINESS PRODUCTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0462432053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $35 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DYNAFLEX PRODUCTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0952744185",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $35 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CALPERS",
+					"plan_id_type": "EIN",
+					"plan_id": "0946207465",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COMPREHENSIVE DISTRIBUTION SERVICES INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0270276209",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Gold A + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MCNIB CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0953609552",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TOTAL-WESTERN, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0770005218",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LDI TRUCKING INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0810581888",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Gold E + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AZ HEATING AND AIR CONDITIONING INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954311131",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LUNASIA GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0203686048",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WALMART STORES, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0710415188",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 94 Ambetter HMO  (100 - 150% FPL)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HUNSAKER & ASSOCIATES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953123103",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $40 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NIEVES LANDSCAPE INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330458209",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GOODWILL OF ORANGE COUNTY",
+					"plan_id_type": "EIN",
+					"plan_id": "0951644018",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MILLER CASTINGS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952873159",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CARRIX, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0911653735",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JENCO PRODUCTIONS",
+					"plan_id_type": "EIN",
+					"plan_id": "0330688894",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STATE BANK OF INDIA (CALIFORNIA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0953680060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STARBUCKS CORPORATION (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0911325671",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $50 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum 90 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA071",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Silver $2250/$50",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $40 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AMERICAN TEXTILE MAINTENANCE",
+					"plan_id_type": "EIN",
+					"plan_id": "0952076802",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FIRST QUALITY PAINTING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954829390",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "APTIM CORP. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0820889816",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $35",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $10 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Silver $55 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GRISWOLD INDUSTRIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0951717422",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FABRICATION CONCEPTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0330339189",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "J.C FORD COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0330428662",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RAMONA'S MEXICAN FOOD PRODUCTS.",
+					"plan_id_type": "EIN",
+					"plan_id": "0814827164",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NGC CONSTRUCTION INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0811555142",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "THE DIXIE GROUP, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0620183370",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SHEET METAL WORKERS HEALTH PLAN",
+					"plan_id_type": "EIN",
+					"plan_id": "0956052259",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $20 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VERITIV CORPORATION (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0135369500",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AIRNAMIC",
+					"plan_id_type": "EIN",
+					"plan_id": "0510496708",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WHITE CASTLE SYSTEM, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0314340520",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FMF RACING",
+					"plan_id_type": "EIN",
+					"plan_id": "0330667541",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PREMIERE CONSULTING GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0953016679",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 94 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NOARUS AUTO GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0330254740",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Gold F",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $10 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SLALOM - (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0841246887",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Salud HMO y Mas Platinum D + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA033",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MARSHALL ELECTRONICS INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0953563611",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SOUTHERN CALIFORNIA PRECISION",
+					"plan_id_type": "EIN",
+					"plan_id": "0330916369",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Silver $55 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "THE AMERICAN NATIONAL RED CROSS (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0530196605",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $40 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "K & M MEAT",
+					"plan_id_type": "EIN",
+					"plan_id": "0953190060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $0 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC SERVICE CREDIT UNION",
+					"plan_id_type": "EIN",
+					"plan_id": "0946061277",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RED CHAMBER COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0953544617",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "B2SIGN",
+					"plan_id_type": "EIN",
+					"plan_id": "0453592361",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MARCOVICI HOLDINGS, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0271147249",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $40 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "R.J. ACQUISITION CORP DBA ADART CO",
+					"plan_id_type": "EIN",
+					"plan_id": "0954391326",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 87 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "KC PHARMACEUTICALS",
+					"plan_id_type": "EIN",
+					"plan_id": "0330255526",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ACCU-SEMBLY INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954018957",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BON APPETIT DANISH, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954234738",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $20 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Platinum I + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Silver $55 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Bronze $6300/$65",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Platinum F + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SACRAMENTO CITY UNIFIED SCHOOL DISTRICT",
+					"plan_id_type": "EIN",
+					"plan_id": "0946002491",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TETRA TECH (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0954148514",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SOUTH CENTRAL LOS ANGELES REGIONAL CENTE",
+					"plan_id_type": "EIN",
+					"plan_id": "0953861159",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0%",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COTTONWOOD CHURCH",
+					"plan_id_type": "EIN",
+					"plan_id": "0330003125",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "M.F.O.W. WELFARE FUND",
+					"plan_id_type": "EIN",
+					"plan_id": "0941254186",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $40",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "INTEGRATED DEMOLITION AND REMEDIATION IN",
+					"plan_id_type": "EIN",
+					"plan_id": "0473658571",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "THE LEARNING CHOICE ACADEMY",
+					"plan_id_type": "EIN",
+					"plan_id": "0201240743",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HEXPOL HOLDING INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0800314696",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Gold G + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ELITE LIGHTING CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0954708089",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MADDEN CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0200140370",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CENTENE - CA (FULL FUNDED)",
+					"plan_id_type": "EIN",
+					"plan_id": "0391864073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "INLAND POWDER COATING CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0330045795",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC WEST COMMUNICATIONS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953786965",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Gold I",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $40 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2500/55 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+					"plan_id_type": "EIN",
+					"plan_id": "0956001908",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DELAWARE NORTH COMPANIES, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0160994528",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Silver A",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter HMO Limited Cost Share AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WALKER ADVERTISING",
+					"plan_id_type": "EIN",
+					"plan_id": "0474948016",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Salud HMO y Mas Gold D + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA033",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SERV-RITE MEAT",
+					"plan_id_type": "EIN",
+					"plan_id": "0953068358",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SAN FRANCISCO ZOO",
+					"plan_id_type": "EIN",
+					"plan_id": "0941429538",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PEARSON DENTAL SUPPLIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953911712",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STAR NAIL PRODUCTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0953898529",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HYDROFORM USA, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953767134",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $0 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WOODS MAINTENANCE SERVICES, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954643637",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CONSOLIDATED MEDICAL BIO-ANALYSIS INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953484894",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GENWORTH FINANCIAL, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0911277112",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FTI CONSULTING, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0521261113",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "EQUITABLE (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0135570651",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HAND AND NAIL HARMONY",
+					"plan_id_type": "EIN",
+					"plan_id": "0264385239",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HORMUTH GROUP, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953271616",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $50 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WALTERS WHOLESALE ELECTRIC CO.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952091661",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Platinum I",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NATIONAL WIRE & CABLE CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0951737503",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "THE CHILDREN'S COLLECTIVE INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0267068446",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ALL CARTAGE TRANSPORTATION, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953390650",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STANGENES INDUSTRIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0942247016",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Gold C + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $40 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FORGED PRODUCTS DBA WYMAN GORDON",
+					"plan_id_type": "EIN",
+					"plan_id": "0041992780",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DIAMOND MATTRESS COMPANY INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952479925",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $10 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice SmartCare HMO Gold H + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA074",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DONOVAN BROTHERS GOLF (DONOVAN GOLF)",
+					"plan_id_type": "EIN",
+					"plan_id": "0330862428",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "QUICK CRETE PRODUCTS CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0953023001",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC GAS AND ELECTRIC",
+					"plan_id_type": "EIN",
+					"plan_id": "0940742640",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold 80 Ambetter PPO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AVC CORP",
+					"plan_id_type": "EIN",
+					"plan_id": "0954302031",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OAKS CARD CLUB",
+					"plan_id_type": "EIN",
+					"plan_id": "0941194137",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RELX INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0521471842",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VICTOR VALLEY UNION HIGH SCHOOL DISTRICT",
+					"plan_id_type": "EIN",
+					"plan_id": "0956003414",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CORONA MAGNETICS, INC. DBA CMI",
+					"plan_id_type": "EIN",
+					"plan_id": "0952851662",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LITHIA MOTORS, INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0931307404",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $50",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TORN & GLASSER, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952038611",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MILLMATIC CO",
+					"plan_id_type": "EIN",
+					"plan_id": "0954562988",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FIBER CARE BATHS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0911872221",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HUY FONG FOODS INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0953540018",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BEAUCHAMP DISTRIBUTING COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0952743446",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "$0 Cost Share Ambetter PPO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AC TRANSIT MANAGEMENT & BD OF DIRECTORS",
+					"plan_id_type": "EIN",
+					"plan_id": "0941492636",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MERIT ALUMINUM CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0330396588",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice CommunityCare HMO Bronze A",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA066",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "APELINC LANDSCAPE SERVICES, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0208876586",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PELICAN PRODUCTS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953259634",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $10 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JOBBERS MEAT PACKING CO",
+					"plan_id_type": "EIN",
+					"plan_id": "0953302433",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CONTINENTAL FORGE",
+					"plan_id_type": "EIN",
+					"plan_id": "0952575123",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FEDERAL EMPLOYEE PROGRAM",
+					"plan_id_type": "EIN",
+					"plan_id": "0521136517",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CUSTOM CONTROL SENSORS",
+					"plan_id_type": "EIN",
+					"plan_id": "0951933664",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SOUTHERN CALIFORNIA EDISON",
+					"plan_id_type": "EIN",
+					"plan_id": "0951240335",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BOXES R US, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954797831",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PROGRESSIVE GAMING TPS",
+					"plan_id_type": "EIN",
+					"plan_id": "0844603140",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Platinum E + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OTTO INSTRUMENT SERVICE, INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0952627510",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze HDHP PPO 7000/0% INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PUENTE HILLS HYUNDAI LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0800418024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ELECTROLURGY MANUFACTURING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0201538255",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CHARLES E. THOMAS COMPANY, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952280159",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 2250/60 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SOUTHERN COUNTIES TERMINALS",
+					"plan_id_type": "EIN",
+					"plan_id": "0952830194",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "$0 Cost Share Ambetter HMO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MAJESTIC VACATIONS INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0752954107",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold 80 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COMMANDER, NAVY INSTALLATIONS COMMAND",
+					"plan_id_type": "EIN",
+					"plan_id": "0520813349",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VILLA INTERNATIONAL",
+					"plan_id_type": "EIN",
+					"plan_id": "0951865878",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AAA PLATING & INSPECTION INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0942283426",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HI REL CONNECTORS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952492124",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $10 (Chiro Buy Up) ",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Minimum Coverage Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA062",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 87 Ambetter HMO  (150 - 200% FPL)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CALIFORNIA SMALL MANUFACTURERS H&W TRUST",
+					"plan_id_type": "EIN",
+					"plan_id": "0611670591",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "IMPERIAL VALLEY AUTO GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0822474379",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC HOTEL MANAGEMENT",
+					"plan_id_type": "EIN",
+					"plan_id": "0942749016",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $0 (Chiro Buy Up) ",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Gold A",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AVANTI HOSPITALS,LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0451738512",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50%",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CRYSTAL SPRINGS UPLANDS SCHOOL",
+					"plan_id_type": "EIN",
+					"plan_id": "0941247265",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CAESARS ENTERTAINMENT CORP - CA",
+					"plan_id_type": "EIN",
+					"plan_id": "0465332354",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CB NICHOLS EGG RANCH, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953137581",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Salud HMO y Mas Platinum G + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA033",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GREAT SCOTT TREE SERVICE",
+					"plan_id_type": "EIN",
+					"plan_id": "0330328537",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $40 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $35 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MULTI MECHANICAL INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0200273139",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MC PAINTING",
+					"plan_id_type": "EIN",
+					"plan_id": "0330890700",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COVI CONCRETE CONSTRUCTION, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953661128",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SONIC LIGHTING, INC. DBA SPYDER AUTO",
+					"plan_id_type": "EIN",
+					"plan_id": "0272540793",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1600/0",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "H & H GROUP, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0611863218",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold 80 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA071",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BODEGA LATINA",
+					"plan_id_type": "EIN",
+					"plan_id": "0954517472",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WPS",
+					"plan_id_type": "EIN",
+					"plan_id": "0952483722",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LINDSEY MANUFACTURING COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0952225040",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "EASTERNCCTV LLC DBA EASTERNCCTV (USA) LL",
+					"plan_id_type": "EIN",
+					"plan_id": "0463698015",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CONTINENTAL HEAT TREATING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330206111",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OHECK",
+					"plan_id_type": "EIN",
+					"plan_id": "0611686284",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $10",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $35 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SEIDNER & CO. INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0952582951",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PACIFIC QUALITY PACKAGING",
+					"plan_id_type": "EIN",
+					"plan_id": "0953899789",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STEPSTONE, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0952978769",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Silver $2250/$50 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CALIFORNIA BAPTIST UNIVERSITY",
+					"plan_id_type": "EIN",
+					"plan_id": "0951890710",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CITY OF NATIONAL CITY",
+					"plan_id_type": "EIN",
+					"plan_id": "0956000749",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SEARING INDUSTRIES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953960025",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RIVER CITY BANK",
+					"plan_id_type": "EIN",
+					"plan_id": "0941562490",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AWI MANAGEMENT CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0208570246",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Gold $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "PREFERRED HOSPITALITY",
+					"plan_id_type": "EIN",
+					"plan_id": "0954601958",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AECOM (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0611088522",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "AMPHASTAR PHARMACEUTICALS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330702205",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "UNIVERSAL PLASTIC MOLD",
+					"plan_id_type": "EIN",
+					"plan_id": "0952623231",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CITY OF PLEASANTON",
+					"plan_id_type": "EIN",
+					"plan_id": "0946000397",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LA AMAPOLA, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0862672812",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CALIFORNIA BOX COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0953901917",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $35 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $0",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CASA LINDA FURNITURE INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954072827",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 70 Off Exchange Ambetter HMO  ",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA062",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CATALINA OFFSHORE PRODUCTS",
+					"plan_id_type": "EIN",
+					"plan_id": "0330443145",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $50 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STEELCASE INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0380819050",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GRANT THORNTON LLP",
+					"plan_id_type": "EIN",
+					"plan_id": "0366055558",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ARCHITECTURAL COATINGS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330668006",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SOHNEN ENTERPRISES",
+					"plan_id_type": "EIN",
+					"plan_id": "0952833510",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 70 Off Exchange Ambetter PPO ",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA071",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CEMENT MASONS SO CA HEALTH & WELFARE",
+					"plan_id_type": "EIN",
+					"plan_id": "0956042883",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COUNTY OF KERN",
+					"plan_id_type": "EIN",
+					"plan_id": "0956000925",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TRC COMPANIES, LLC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0821842424",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Silver $55 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SAN FRANCISCO HEALTH SERVICE SYSTEM",
+					"plan_id_type": "EIN",
+					"plan_id": "0943248335",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $35 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Gold G",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver PPO 1700/50 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $50 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "S.U.P. WELFARE PLAN, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0941243666",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $0 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SERTA SIMMONS BEDDING,LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0133875743",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Platinum C + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "YOSHIMURA R&D OF AMERICA",
+					"plan_id_type": "EIN",
+					"plan_id": "0952946788",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $0 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "STERLING PACIFIC MEAT CO.",
+					"plan_id_type": "EIN",
+					"plan_id": "0880303618",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Salud HMO y Mas Gold D",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA033",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $30 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $35 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CSP FIBER SERVICES, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0472268136",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "OLIVET INTERNATIONAL INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0942938852",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BAY AREA COMMUNITY HEALTH",
+					"plan_id_type": "EIN",
+					"plan_id": "0237255435",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver HDHP PPO 1500/50% OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze 60 Ambetter HMO $0 Cost Share AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Gold C",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FIRESTORM INVESTMENTS, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330941738",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SAN DIEGO COUNTY EE'S RETIREMENT",
+					"plan_id_type": "EIN",
+					"plan_id": "0956099342",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Minimum Coverage Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CATALINA CHANNEL EXPRESS",
+					"plan_id_type": "EIN",
+					"plan_id": "0953650406",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SANTA MONICA UNITE HERE BENEFIT FUND",
+					"plan_id_type": "EIN",
+					"plan_id": "0956035138",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RICH PRODUCTS CORPORATION - AON",
+					"plan_id_type": "EIN",
+					"plan_id": "0311387980",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "INTERIOR REMOVAL SPECIALIST, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954462657",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 0/15 INF OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $10",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RICOH AMERICAS CORPORATION (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0230334400",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 750/15",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold 80 Ambetter HMO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SAN JOAQUIN COUNTY EMPLOYEES",
+					"plan_id_type": "EIN",
+					"plan_id": "0946000531",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Salud HMO y Mas Platinum G",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA033",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "BURTECH PIPELINE",
+					"plan_id_type": "EIN",
+					"plan_id": "0330684881",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ALL VALLEY WASHER SERVICE INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0952576490",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FOREST PLYWOOD SALES",
+					"plan_id_type": "EIN",
+					"plan_id": "0954433864",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $30",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LYCEE INTERNATIONAL DE LOS ANGELES",
+					"plan_id_type": "EIN",
+					"plan_id": "0953363496",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GATEWAY HOTEL, LP",
+					"plan_id_type": "EIN",
+					"plan_id": "0810656662",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ABLE FREIGHT SERVICES LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0843789185",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 73 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LUXE SEAFOOD COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0475487599",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "GLENTIC",
+					"plan_id_type": "EIN",
+					"plan_id": "0320071328",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $30 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $20 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $20 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FENTON CHARTER PUBLIC SCHOOLS",
+					"plan_id_type": "EIN",
+					"plan_id": "0300364878",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DIRECTPRO LOGISTICS LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0841924118",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VADEN HEALTH CENTER",
+					"plan_id_type": "EIN",
+					"plan_id": "0941156365",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $20 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DXC TECHNOLOGY (CSC) (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0952043126",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ALIGHT SOLUTIONS LLC (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0362235791",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HITEX DYEING & FINISHING, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0263224967",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TOTAL WINE (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0251531856",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Platinum H + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Silver $2250/$50 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $50 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Bronze PPO 6300/65 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Platinum PPO 250/15 INF",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "FRONTIER COMMUNICATIONS PARENT, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0862359749",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TECHNI-CAST CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0951811808",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COLUMBIA STEEL, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0953192911",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MOTION PICTURE INDUSTRY PENSION & HEALTH",
+					"plan_id_type": "EIN",
+					"plan_id": "0956042583",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 70 Ambetter HMO AI-AN",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DOUBLE EAGLE TRANSPORTATION CORP",
+					"plan_id_type": "EIN",
+					"plan_id": "0222321575",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Silver $2250/$50 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $10",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 INF OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice Full Network HMO Gold E",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA069",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ACORN ENGINEERING",
+					"plan_id_type": "EIN",
+					"plan_id": "0951864304",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ACCLAMATION INSURANCE MANAGEMENT SERVICE",
+					"plan_id_type": "EIN",
+					"plan_id": "0943105085",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $40",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CLASSIC CONTAINERS",
+					"plan_id_type": "EIN",
+					"plan_id": "0330675730",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TRIUMPH GROUP, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0510347963",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $40 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 70 Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA070",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Minimum Coverage Ambetter PPO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA071",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MAVERICK HOSPITALITY GROUP",
+					"plan_id_type": "EIN",
+					"plan_id": "0330169771",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Gold $35 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Platinum $20 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 500/20 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "TUR-BO JET PRODUCTS COMPANY, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0951801674",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DEREK & CONSTANCE LEE CORPORATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0954776959",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Silver 73 Ambetter HMO  (200 - 250% FPL)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "O&K, INC DBA: ONE CLOTHING",
+					"plan_id_type": "EIN",
+					"plan_id": "0954436543",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HEALTHCARE MANAGEMENT SVCS",
+					"plan_id_type": "EIN",
+					"plan_id": "0954190145",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "RIVERSIDE COMMUNITY COLLEGE",
+					"plan_id_type": "EIN",
+					"plan_id": "0956000929",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "2253 APPAREL, LLC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0201156835",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Salud HMO y Mas Platinum $0 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA026",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 0/35",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 OOS",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $35",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CITY OF LA VERNE",
+					"plan_id_type": "EIN",
+					"plan_id": "0956000732",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "DARDEN RESTAURANTS, INC. (CA)",
+					"plan_id_type": "EIN",
+					"plan_id": "0593305930",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $0 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LINFIELD CHRISTIAN SCHOOL",
+					"plan_id_type": "EIN",
+					"plan_id": "0951683878",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CommunityCare HMO Bronze $6300/$65 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA053",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "ACCURATE COMFORT SYSTEMS DBA: ACTION AIR",
+					"plan_id_type": "EIN",
+					"plan_id": "0330104121",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CATALIGHT FOUNDATION",
+					"plan_id_type": "EIN",
+					"plan_id": "0941340523",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 350/25 OOS (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "NAVY EXCHANGE SERVICE COMMAND (NEXCOM)",
+					"plan_id_type": "EIN",
+					"plan_id": "0111644854",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LOCKHEED",
+					"plan_id_type": "EIN",
+					"plan_id": "0521893632",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "US MOTOR WORKS, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0954538566",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "JEWISH COMMUNITY FEDERATION OF SF",
+					"plan_id_type": "EIN",
+					"plan_id": "0941156533",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $20 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HEALTH NET, INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0954288333",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "VERONICA'S AUTO INSURANCE",
+					"plan_id_type": "EIN",
+					"plan_id": "0208826340",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Gold $40 + Infertility (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WEST COAST PRIME MEATS LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0274172943",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WholeCare HMO Platinum $10",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA060",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "LA SPECIALTY PRODUCE COMPANY",
+					"plan_id_type": "EIN",
+					"plan_id": "0953973599",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CHAMPION DODGE, LLC",
+					"plan_id_type": "EIN",
+					"plan_id": "0205961382",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "WET OKOLE HAWAII, INC",
+					"plan_id_type": "EIN",
+					"plan_id": "0330707218",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Full Network HMO Platinum $30 + Infertility",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CALIFORNIA CHICKEN CAFE",
+					"plan_id_type": "EIN",
+					"plan_id": "0954674219",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "MOMENTUM INNOVATIVE DISABILITY SERVICES",
+					"plan_id_type": "EIN",
+					"plan_id": "0951648203",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "THE ROCK CHURCH AND ACADEMY",
+					"plan_id_type": "EIN",
+					"plan_id": "0330888725",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HUGHES-NELSON COMPANY, INC. DBA APEX",
+					"plan_id_type": "EIN",
+					"plan_id": "0952818024",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "CalChoice WholeCare HMO Platinum C",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA061",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Minimum Coverage Ambetter HMO",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA052",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Gold PPO 1000/35 INF (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA073",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HILLCREST CONTRACTING INC.",
+					"plan_id_type": "EIN",
+					"plan_id": "0330082451",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "COUNTY OF SANTA CLARA",
+					"plan_id_type": "EIN",
+					"plan_id": "0946000533",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "SmartCare HMO Gold $50 (Chiro Buy Up)",
+					"plan_id_type": "HIOS",
+					"plan_id": "67138CA051",
+					"plan_market_type": "group"
+				}
+			],
+			"in_network_files": [
+				{
+					"description": "in-network file",
+					"location": "https://raw.githubusercontent.com/srikanth-nt/price-transparency-samples/main/centene-management-company-llc_healthnet-ca_in-network.json"
+				}
+			],
+			"allowed_amount_file": {
+				"description": "allowed-amounts file",
+				"location": "https://github.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-ca_allowed-amounts.json"
+			}
+		},
+		{
+			"reporting_plans": [
+				{
+					"plan_name": "HDE4000-3-6750ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HD6900-0-6900ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-6000-5-8500ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P0-3500-4-8000DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-500-3-7900DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-2000-2-7900DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P30-3500-3-7900DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HDE3000-3-6750ES ",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HDE4000-3-6750ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Health Net Oregon Standard Gold Plan",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P8250-0-8250ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-4000-3-8150ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P35-5000-5-8500DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HD3000-3-6750ES ",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-3500-5-8150ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P50-0-5-5000",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P10-250-1-4000LX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P50-0-5-5000 PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P10-500-1-4000LX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HD6900-0-6900ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P10-250-1-4000LX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HDE6900-0-6900ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P0-3500-4-8000DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Health Net Oregon Standard Silver Plan",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HD4000-3-6750ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-2500-3-7900DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HDE6900-0-6900ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-6000-5-8500ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P8250-0-8250ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P0-1500-4-8000DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "Health Net Oregon Standard Bronze Plan",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-1000-2-7950DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-3500-5-8150ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P35-5000-5-8500DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P10-500-1-4000LX ",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P30-1500-2-7900DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-4000-3-8150ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HD4000-3-6750ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P10-750-2-3500LX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P10-750-2-3500LX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P0-1500-4-8000DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P30-1500-2-7900DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-2000-2-7900DX",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HDE3000-3-6750ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-500-3-7900DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-1000-2-7950DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P30-3500-3-7900DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-5000-5-8150ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P45-5000-5-8150ES",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "HD3000-3-6750ES PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				},
+				{
+					"plan_name": "P20-2500-3-7900DX PD",
+					"plan_id_type": "HIOS",
+					"plan_id": "10940OR029",
+					"plan_market_type": "group"
+				}
+			],
+			"in_network_files": [
+				{
+					"description": "in-network file",
+					"location": "https://github.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-or_in-network.json"
+				}
+			],
+			"allowed_amount_file": {
+				"description": "allowed-amounts file",
+				"location": "https://github.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-or_allowed-amounts.json"
+			}
+		}
+	]
+}
