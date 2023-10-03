@@ -4375,7 +4375,7 @@
 			],
 			"allowed_amount_file": {
 				"description": "allowed-amounts file",
-				"location": "https://github.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-ca_allowed-amounts.json"
+				"location": "https://raw.githubusercontent.com/srikanth-nt/price-transparency-samples/main/centene-management-company-llc_healthnet-ca_allowed-amounts.json"
 			}
 		},
 		{
@@ -4690,12 +4690,12 @@
 			"in_network_files": [
 				{
 					"description": "in-network file",
-					"location": "https://github.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-or_in-network.json"
+					"location": "https://raw.githubusercontent.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-or_in-network.json"
 				}
 			],
 			"allowed_amount_file": {
 				"description": "allowed-amounts file",
-				"location": "https://github.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-or_allowed-amounts.json"
+				"location": "https://raw.githubusercontent.com/srikanth-nt/price-transparency-samples/blob/main/centene-management-company-llc_healthnet-or_allowed-amounts.json"
 			}
 		}
 	]
